@@ -1,0 +1,9 @@
+{
+    "name": "fhp-smelter-module",
+    "title": "Smelter Modules by FredHP",
+    "description": "You can put modules in Stone Furnaces and Steel Furnaces too. All Furnaces, modded included, accepts Modules. This mod uses the code of 'All Furnaces with Modules by DellAquila'.",
+    "version": "0.0.1",
+    "author": "FredHP",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"]
+}
